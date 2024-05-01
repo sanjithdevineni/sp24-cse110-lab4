@@ -1,0 +1,2 @@
+1. The bug was that the parameters are of type string, and that they need to be converted to numbers for the program to work correctly.
+2. I would fix it by converting the parameters num1 and num2 to the number data type.
